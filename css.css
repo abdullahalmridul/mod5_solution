@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+iframe {
+  height: calc(100vh - 4px);
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.display {
+  display: none;
+}
